@@ -1,16 +1,16 @@
-# 🔐 Simple Login Page
+# Simple Login Page
 A clean and beginner-friendly **login page interface** built using HTML and CSS.
 
-### ✨ Features
+### Features
 * Username/email input
 * Password input
 * Login button
 * Simple responsive layout
 * CSS-based styling
 
-### 🛠️ Technologies
+### Technologies
 * HTML5
 * CSS3
 
-### 🎯 Purpose
+### Purpose
 Created as a frontend practice project to strengthen fundamental HTML structure and CSS styling skills.
