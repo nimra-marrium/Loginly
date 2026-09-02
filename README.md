@@ -1,2 +1,16 @@
-# SIMPLE_LOGIN_PAGE
-Welcome to this GitHub Repository! It includes a basic  login page designed using html and CSS only.
+# 🔐 Simple Login Page
+A clean and beginner-friendly **login page interface** built using HTML and CSS.
+
+### ✨ Features
+* Username/email input
+* Password input
+* Login button
+* Simple responsive layout
+* CSS-based styling
+
+### 🛠️ Technologies
+* HTML5
+* CSS3
+
+### 🎯 Purpose
+Created as a frontend practice project to strengthen fundamental HTML structure and CSS styling skills.
