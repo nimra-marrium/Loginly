@@ -1,4 +1,4 @@
-# Simple Login Page
+# Login Page
 A clean and beginner-friendly **login page interface** built using HTML and CSS.
 
 ### Features
